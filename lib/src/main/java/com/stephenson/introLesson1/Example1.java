@@ -20,13 +20,13 @@ public class Example1 {
 	 * 
 	 */
 	
-	private static short shorty = 1;
-	private static int num = 2;
-	private static long longNum = 872354876;
-	private static float floater = 3.14f;
-	private static double dub = 3.056d;
-	private static char charMander = 'c';
-	private static boolean seeTheTruth = true;
+	private short shorty = 1;
+	private int num = 2;
+	private long longNum = 872354876;
+	private float floater = 3.14f;
+	private double dub = 3.056d;
+	private char charMander = 'c';
+	private boolean seeTheTruth = true;
 	
 		public void go() {
 			
