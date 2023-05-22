@@ -35,7 +35,6 @@ public class Example2 {
 			}
 			
 			while(starter2 <= 20) {
-				
 				starter2++;
 				if(starter2 % 2 == 0) {
 					System.out.println(starter2);
