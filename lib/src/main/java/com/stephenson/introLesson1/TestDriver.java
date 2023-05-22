@@ -16,6 +16,10 @@ package com.stephenson.introLesson1;
 
 public class TestDriver {
 	
+	/**
+	 * 
+	 */
+	
 	static Example1 firstExample = new Example1();
 	static Example2 secondExample = new Example2();
 	

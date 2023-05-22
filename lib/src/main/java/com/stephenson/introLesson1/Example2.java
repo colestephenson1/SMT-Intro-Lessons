@@ -16,7 +16,9 @@ package com.stephenson.introLesson1;
 
 public class Example2 {
 	
-	
+	/**
+	 * 
+	 */
 	
 		public void go() {
 			

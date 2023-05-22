@@ -16,6 +16,10 @@ package com.stephenson.introLesson1;
 
 public class Example1 {
 	
+	/**
+	 * 
+	 */
+	
 	private static short shorty = 1;
 	private static int num = 2;
 	private static long longNum = 872354876;
